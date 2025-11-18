@@ -1,6 +1,6 @@
 <!-- CUSTOM BANNER -->
 <p align="center">
-  <img src="https://imgur.com/a/lwCXJ5T" alt="Joseph Kibithe Banner" width="100%">
+  <img src="//imgur.com/a/lwCXJ5T" alt="Joseph Kibithe Banner" width="100%">
 </p>
 
 <h1 align="center">⚡ Yo, I'm <span style="color:#7d5fff;">Joseph Kibithe</span> ⚡</h1>
